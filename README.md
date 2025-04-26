@@ -7,7 +7,7 @@
 ## 🚀 ¿Para qué sirve?
 
 Eco_Gravity permite:
-- Calcular un **índice ambiental** considerando factores como vegetación, cuerpos de agua, vertederos, etc.
+- Calcular un **índice ambiental** considerando factores como vegetación, cuerpos de agua, bosques nativos u áreas que signifiquen un aporte al derecho  a acceso equitativo de la naturaleza
 - Evaluar zonas de manera rápida, numérica y espacialmente explícita.
 - Visualizar cómo los distintos elementos del territorio (positivos o negativos) influyen sobre puntos específicos.
 
@@ -21,7 +21,7 @@ F = (masa1 * masa2) / distancia²
 
 
 
-- **Área** y **Densidad** deben estar en los atributos de los polígonos (valores preferiblemente enteros).
+-  Para este algoritmo, se ha reemplazado la Masa por un valor resultante entre **Área** y **Densidad**, los cuales deben estar en los atributos de los polígonos (valores preferiblemente enteros).
 - **Distancia**: desde cada polígono al punto de análisis.
 - El índice se **normaliza** dividiendo por 10.000 para mayor legibilidad.
 
@@ -90,7 +90,7 @@ Una **tabla** sin geometría asociada con los resultados del cálculo para cada 
 ## 💸 Licencia
 
 **Versión gratuita** para uso personal, académico o de investigación.  
-Si deseas emplearla en **proyectos profesionales, comerciales o institucionales**, te sugerimos contactar al autor para personalizar la herramienta.
+Si deseas emplearla en **proyectos profesionales, comerciales o institucionales**, contactame para personalizar la herramienta.
 
 ---
 
@@ -103,5 +103,5 @@ Si deseas emplearla en **proyectos profesionales, comerciales o institucionales*
 
 ## 🌱 ¡Colabora!
 
-¿Te gustaría colaborar o sugerir mejoras?  
+¿Te gustaría colaborar, testear herramientas o sugerir mejoras?
 Abre un *issue* o contacta al autor directamente. ¡Toda ayuda es bienvenida!
