@@ -61,7 +61,7 @@ Representan elementos que **dañan** el medio ambiente:
 - Las capas de polígonos deben contener campos llamados:
   - `Densidad` (valor ecológico asignado).
   - `Area` (en unidades coherentes con tu proyección).
-- Para **uso comercial o profesional**, se recomienda mejorar la herramienta:
+- Para **uso comercial o profesional**, se recomienda solicitar nuevas versiones:
   - Por ejemplo, **reemplazar la columna `Densidad` en cuerpos de agua** por indicadores como `calidad del agua`, `pH`, `turbidez`, etc.
 
 ---
