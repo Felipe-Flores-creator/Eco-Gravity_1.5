@@ -62,7 +62,7 @@ Representan elementos que **dañan** el medio ambiente:
   - `Densidad` (valor ecológico asignado).
   - `Area` (en unidades coherentes con tu proyección).
 - Para **uso comercial o profesional**, se recomienda solicitar nuevas versiones:
-  - Por ejemplo, **reemplazar la columna `Densidad` en cuerpos de agua** por indicadores como `calidad del agua`, `pH`, `turbidez`, etc.
+  - (Futuras versiones cuentan con correciones) **Se reemplazará la columna `Densidad` en cuerpos de agua** por indicadores como `calidad del agua`, `pH`, `turbidez`, etc.
 
 ---
 
@@ -104,4 +104,4 @@ Si deseas emplearla en **proyectos profesionales, comerciales o institucionales*
 ## 🌱 ¡Colabora!
 
 ¿Te gustaría colaborar, testear herramientas o sugerir mejoras?
-Abre un *issue* o contacta al autor directamente. ¡Toda ayuda es bienvenida!
+Contactame ¡Toda ayuda es bienvenida!
